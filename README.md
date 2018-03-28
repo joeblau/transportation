@@ -28,7 +28,10 @@ Transportation Renaissance Companies
 - **[Airbus](https://www.airbus-sv.com/)**
 - **[Cora](https://cora.aero/)**
 - **[Ehang](http://www.ehang.com/ehang184/)**
+- **[Lilium](https://lilium.com)**
+- **[Terrafugia](https://www.terrafugia.com/)**
 - **[Uber Elevate](https://www.uber.com/info/elevate/)**
+- **[Vahana](https://vahana.aero)**
 
 
 **Hyperloop**
