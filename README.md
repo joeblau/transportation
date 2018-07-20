@@ -49,7 +49,9 @@ Transportation Renaissance Companies
 
 **Supersonic Flight**
 
+- **[Aerion Supersonic](https://www.aerionsupersonic.com)**
 - **[Boom Supersonic](https://www.boomsupersonic.com/)**
+- **[Spike Aerospace](http://www.spikeaerospace.com)**
 
 **Hypersonic Flight**
 
