@@ -29,6 +29,7 @@ Transportation Renaissance Companies
 - **[Cora](https://cora.aero/)**
 - **[Ehang](http://www.ehang.com/ehang184/)**
 - **[Lilium](https://lilium.com)**
+- **[Opener](https://www.opener.aero/)**
 - **[Terrafugia](https://www.terrafugia.com/)**
 - **[Uber Elevate](https://www.uber.com/info/elevate/)**
 - **[Vahana](https://vahana.aero)**
